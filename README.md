@@ -35,6 +35,7 @@ A list of useful links and resources I gathered during the Neue Fische Bootcamp.
 - [Flexbox Froggy (Playful Flexbox tutorial)](https://flexboxfroggy.com/?learn#de)
 - [Flukeout (Playufl selectors tutorial)](https://flukeout.github.io/)
 - [CSSBattle (Playful CSS quiz)](https://cssbattle.dev/)
+- [Styled Components (Alternative to CSS modules, mixing ES and CSS)](https://styled-components.com/)
 
 ---
 
@@ -44,6 +45,7 @@ A list of useful links and resources I gathered during the Neue Fische Bootcamp.
 - [Dev Ed (Video tutorials with JS focus)](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
 - [Understanding Immutability in JavaScript](https://css-tricks.com/understanding-immutability-in-javascript/)
 - [Codewars (Coding challenges (JS, TS,...))](https://www.codewars.com/)
+- [JS Style Guide by AirBnB](https://github.com/airbnb/javascript)
 
 ### React
 
@@ -51,6 +53,8 @@ A list of useful links and resources I gathered during the Neue Fische Bootcamp.
 - [React with Hooks (Unofficial updated documentation with hooks)](https://reactwithhooks.netlify.app/)
 - [React Crash Course 2021 (YouTube video tutorial)](https://youtu.be/w7ejDZ8SWv8)
 - [React Blog (By Robin Wieruch, lots of tutorials and articles concerning React)](https://www.robinwieruch.de/blog)
+- [classnames (Utility for easily conditionally joining classNames together)](https://github.com/JedWatson/classnames)
+- [React file structure (Guide for structuring React projects)](https://reactjs.org/docs/faq-structure.html)
 
 ### Next.js
 
@@ -64,6 +68,7 @@ A list of useful links and resources I gathered during the Neue Fische Bootcamp.
 - [Crypto-JS for npm (encrypt passwords with master key)](https://www.npmjs.com/package/crypto-js)
 - [.env for npm (safe secure data in variables)](https://www.npmjs.com/package/dotenv)
 - [List of predefined ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+- [Nodemon for npm (useful dev dependency, automatically restarting node application)](https://www.npmjs.com/package/nodemon)
 
 ## MongoDB
 
@@ -93,6 +98,7 @@ A list of useful links and resources I gathered during the Neue Fische Bootcamp.
 - [Heroicon (MIT licensed icon library)](https://heroicons.com/)
 - [Iconscout (Icon library, free with GitHub student pack)](https://iconscout.com/)
 - [Material.io (Icon library by Google)](https://material.io/resources/icons/?style=baseline)
+- [CSS.gg (Open source Icon library)](https://css.gg/)
 - [Google Fonts (Font library, easy to implement)](https://fonts.google.com/)
 
 ### Tools
