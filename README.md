@@ -15,6 +15,8 @@ A list of useful links and resources I gathered during the Neue Fische Bootcamp.
 - [GitHub Pull Request Extension for VSCode](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
 - [Git stash (Overview of stash commands)](https://www.atlassian.com/git/tutorials/saving-changes/git-stash) -[GitHub Student Developer Pack (Lots of freebies by GitHub Pro)](https://education.github.com/pack/offers)
 - [Git Ignore Patterns (Documentation for the .gitignore file)](https://www.atlassian.com/git/tutorials/saving-changes/gitignore)
+- [How to create an issue template](https://docs.github.com/en/github/building-a-strong-community/configuring-issue-templates-for-your-repository)
+- [Link a PR to an issue](https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword)
 
 ---
 
@@ -36,6 +38,7 @@ A list of useful links and resources I gathered during the Neue Fische Bootcamp.
 - [Flukeout (Playufl selectors tutorial)](https://flukeout.github.io/)
 - [CSSBattle (Playful CSS quiz)](https://cssbattle.dev/)
 - [Styled Components (Alternative to CSS modules, mixing ES and CSS)](https://styled-components.com/)
+- [100 hover animations (Source for hover animation templates)](https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 
 ---
 
@@ -112,6 +115,7 @@ A list of useful links and resources I gathered during the Neue Fische Bootcamp.
 - [Cubic Bezier (Preview bezier curves for css transformations)](https://cubic-bezier.com/#.17,.67,.83,.67)
 - [CSS: PX to EM converter](https://nekocalc.com/px-to-em-converter)
 - [JSONLint (JSON Validator - check if JSON is typed correctly)](https://jsonlint.com/)
+- [SVG Minifier (Clean up SVG files, reducing file size)](https://www.svgminify.com/)
 
 ### Design
 
