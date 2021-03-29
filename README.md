@@ -49,6 +49,9 @@ A list of useful links and resources I gathered during the Neue Fische Bootcamp.
 - [Understanding Immutability in JavaScript](https://css-tricks.com/understanding-immutability-in-javascript/)
 - [Codewars (Coding challenges (JS, TS,...))](https://www.codewars.com/)
 - [JS Style Guide by AirBnB](https://github.com/airbnb/javascript)
+- [242 JS single line of codes (useful for certain functions)](https://1loc.dev/)
+- [Clean code concepts adapted for JS](https://github.com/ryanmcdermott/clean-code-javascript)
+- [Set of best practices for JS projects](https://github.com/elsewhencode/project-guidelines)
 
 ### React
 
@@ -139,3 +142,4 @@ A list of useful links and resources I gathered during the Neue Fische Bootcamp.
 - [Public APIs (Collection of free to use APIs)](https://public-apis.xyz/)
 - [Dev.to (Dev community with lots of information and events/hackathons)](https://dev.to/)
 - [OverTheWire (Shell learning game)](https://overthewire.org/wargames/bandit/bandit0.html)
+- [Guide for Frontend Job Interviews](https://github.com/yangshun/front-end-interview-handbook)
